@@ -1,5 +1,7 @@
 # PythonTensorflow-Image-Masking
-Carvana_Image_Masking
+Kaggle Carvana Image Masking
+
+Datasets: https://www.kaggle.com/c/carvana-image-masking-challenge/code?competitionId=6927&sortBy=voteCount
 
 ## Left is inputs images, Right is the prediction
 ![image](https://github.com/weisting-kw/PythonTensorflow-Image-Masking/blob/main/example/example1.png)
